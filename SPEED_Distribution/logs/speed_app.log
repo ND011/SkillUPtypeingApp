@@ -1,0 +1,24 @@
+2025-08-04 21:12:31,867 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-04 21:12:33,884 - game.database_manager - INFO - Database initialized successfully
+2025-08-04 21:12:33,892 - game.database_manager - INFO - Database connection closed
+2025-08-04 21:12:33,898 - game.database_manager - INFO - Database initialized successfully
+2025-08-04 21:12:35,543 - root - INFO - SPEED application started successfully
+2025-08-04 21:12:47,364 - game.database_manager - INFO - Score saved for user default_user: 0.0 WPM
+2025-08-04 21:12:57,664 - game.database_manager - INFO - Score saved for user default_user: 0.0 WPM
+2025-08-04 21:12:58,674 - game.database_manager - INFO - Database connection closed
+2025-08-04 21:12:58,695 - root - INFO - Cleaning up application resources...
+2025-08-04 21:12:58,695 - game.database_manager - INFO - Database connection closed
+2025-08-04 21:12:58,695 - root - INFO - SPEED application shutdown complete
+2025-08-04 21:23:48,550 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-04 21:23:49,922 - game.database_manager - INFO - Database initialized successfully
+2025-08-04 21:23:49,923 - game.database_manager - INFO - Database connection closed
+2025-08-04 21:23:49,923 - game.database_manager - INFO - Database initialized successfully
+2025-08-04 21:23:53,923 - root - INFO - SPEED application started successfully
+2025-08-04 21:25:21,395 - game.database_manager - ERROR - Failed to save score: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 3200 and this is thread id 8768.
+2025-08-04 21:25:21,397 - game.database_manager - ERROR - Failed to get user stats: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 3200 and this is thread id 8768.
+2025-08-04 21:25:21,397 - game.database_manager - ERROR - Failed to get user scores: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 3200 and this is thread id 8768.
+2025-08-04 21:25:21,403 - game.database_manager - ERROR - Failed to get leaderboard: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 3200 and this is thread id 8768.
+2025-08-04 21:34:26,272 - game.database_manager - INFO - Database connection closed
+2025-08-04 21:34:26,289 - root - INFO - Cleaning up application resources...
+2025-08-04 21:34:26,289 - game.database_manager - INFO - Database connection closed
+2025-08-04 21:34:26,289 - root - INFO - SPEED application shutdown complete

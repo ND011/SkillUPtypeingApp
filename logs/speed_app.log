@@ -1,0 +1,1147 @@
+2025-08-04 14:44:09,528 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-04 14:44:10,674 - game.database_manager - INFO - Database initialized successfully
+2025-08-04 14:44:10,681 - game.database_manager - INFO - Database connection closed
+2025-08-04 14:44:10,834 - root - INFO - SPEED application started successfully
+2025-08-04 14:44:43,694 - root - INFO - Cleaning up application resources...
+2025-08-04 14:44:43,695 - root - INFO - SPEED application shutdown complete
+2025-08-04 14:44:59,954 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-04 14:45:01,020 - game.database_manager - INFO - Database initialized successfully
+2025-08-04 14:45:01,021 - game.database_manager - INFO - Database connection closed
+2025-08-04 14:45:01,111 - root - INFO - SPEED application started successfully
+2025-08-04 14:45:17,886 - root - INFO - Cleaning up application resources...
+2025-08-04 14:45:17,887 - root - INFO - SPEED application shutdown complete
+2025-08-04 14:46:10,473 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-04 14:46:11,538 - game.database_manager - INFO - Database initialized successfully
+2025-08-04 14:46:11,539 - game.database_manager - INFO - Database connection closed
+2025-08-04 14:46:11,625 - root - INFO - SPEED application started successfully
+2025-08-04 14:48:36,153 - root - INFO - Cleaning up application resources...
+2025-08-04 14:48:36,154 - root - INFO - SPEED application shutdown complete
+2025-08-04 14:49:39,733 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-04 14:49:40,803 - game.database_manager - INFO - Database initialized successfully
+2025-08-04 14:49:40,803 - game.database_manager - INFO - Database connection closed
+2025-08-04 14:49:41,185 - game.database_manager - ERROR - Failed to get user stats: 'NoneType' object has no attribute 'cursor'
+2025-08-04 14:49:41,194 - game.database_manager - ERROR - Failed to get user scores: 'NoneType' object has no attribute 'cursor'
+2025-08-04 14:49:41,195 - game.database_manager - ERROR - Failed to get user stats: 'NoneType' object has no attribute 'cursor'
+2025-08-04 14:49:41,200 - game.database_manager - ERROR - Failed to get leaderboard: 'NoneType' object has no attribute 'cursor'
+2025-08-04 14:49:41,287 - root - INFO - SPEED application started successfully
+2025-08-04 14:51:37,063 - game.database_manager - ERROR - Failed to save score: 'NoneType' object has no attribute 'cursor'
+2025-08-04 14:52:00,538 - game.database_manager - ERROR - Failed to get leaderboard: 'NoneType' object has no attribute 'cursor'
+2025-08-04 14:52:04,275 - game.database_manager - ERROR - Failed to get user scores: 'NoneType' object has no attribute 'cursor'
+2025-08-04 14:52:04,276 - game.database_manager - ERROR - Failed to get user stats: 'NoneType' object has no attribute 'cursor'
+2025-08-04 14:52:13,432 - root - INFO - Cleaning up application resources...
+2025-08-04 14:52:13,436 - root - INFO - SPEED application shutdown complete
+2025-08-04 14:52:21,681 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-04 14:52:22,744 - game.database_manager - INFO - Database initialized successfully
+2025-08-04 14:52:22,744 - game.database_manager - INFO - Database connection closed
+2025-08-04 14:52:22,783 - game.database_manager - INFO - Database initialized successfully
+2025-08-04 14:52:22,881 - root - INFO - SPEED application started successfully
+2025-08-04 14:53:23,005 - game.database_manager - INFO - Score saved for user default_user: 171.7 WPM
+2025-08-04 14:53:33,222 - game.database_manager - INFO - Score saved for user default_user: 0.0 WPM
+2025-08-04 14:54:00,702 - game.database_manager - INFO - Database connection closed
+2025-08-04 14:54:00,710 - root - INFO - Cleaning up application resources...
+2025-08-04 14:54:00,710 - game.database_manager - INFO - Database connection closed
+2025-08-04 14:54:00,711 - root - INFO - SPEED application shutdown complete
+2025-08-04 14:59:08,561 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-04 14:59:09,637 - game.database_manager - INFO - Database initialized successfully
+2025-08-04 14:59:09,638 - game.database_manager - INFO - Database connection closed
+2025-08-04 14:59:09,679 - game.database_manager - INFO - Database initialized successfully
+2025-08-04 14:59:09,780 - root - INFO - SPEED application started successfully
+2025-08-04 14:59:40,466 - game.database_manager - INFO - Database connection closed
+2025-08-04 14:59:40,471 - root - INFO - Cleaning up application resources...
+2025-08-04 14:59:40,473 - game.database_manager - INFO - Database connection closed
+2025-08-04 14:59:40,473 - root - INFO - SPEED application shutdown complete
+2025-08-04 15:48:10,307 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-04 15:48:11,575 - game.database_manager - INFO - Database initialized successfully
+2025-08-04 15:48:11,579 - game.database_manager - INFO - Database connection closed
+2025-08-04 15:48:12,228 - game.database_manager - INFO - Database initialized successfully
+2025-08-04 15:48:12,391 - root - INFO - SPEED application started successfully
+2025-08-04 15:52:01,980 - game.database_manager - INFO - Database connection closed
+2025-08-04 15:52:02,000 - root - INFO - Cleaning up application resources...
+2025-08-04 15:52:02,000 - game.database_manager - INFO - Database connection closed
+2025-08-04 15:52:02,002 - root - INFO - SPEED application shutdown complete
+2025-08-04 15:52:08,597 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-04 15:52:09,862 - game.database_manager - INFO - Database initialized successfully
+2025-08-04 15:52:09,862 - game.database_manager - INFO - Database connection closed
+2025-08-04 15:52:10,679 - game.database_manager - INFO - Database initialized successfully
+2025-08-04 15:52:10,921 - root - INFO - SPEED application started successfully
+2025-08-04 15:52:16,697 - game.database_manager - INFO - Database connection closed
+2025-08-04 15:52:16,722 - root - INFO - Cleaning up application resources...
+2025-08-04 15:52:16,722 - game.database_manager - INFO - Database connection closed
+2025-08-04 15:52:16,723 - root - INFO - SPEED application shutdown complete
+2025-08-04 18:18:28,707 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-04 18:18:29,806 - game.database_manager - INFO - Database initialized successfully
+2025-08-04 18:18:29,806 - game.database_manager - INFO - Database connection closed
+2025-08-04 18:18:30,160 - game.database_manager - INFO - Database initialized successfully
+2025-08-04 18:18:30,253 - root - INFO - SPEED application started successfully
+2025-08-04 18:20:01,839 - game.database_manager - INFO - Database connection closed
+2025-08-04 18:20:01,863 - root - INFO - Cleaning up application resources...
+2025-08-04 18:20:01,864 - game.database_manager - INFO - Database connection closed
+2025-08-04 18:20:01,866 - root - INFO - SPEED application shutdown complete
+2025-08-04 18:45:49,004 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-04 18:45:50,096 - game.database_manager - INFO - Database initialized successfully
+2025-08-04 18:45:50,096 - game.database_manager - INFO - Database connection closed
+2025-08-04 18:45:50,443 - game.database_manager - INFO - Database initialized successfully
+2025-08-04 18:45:50,528 - root - INFO - SPEED application started successfully
+2025-08-04 18:47:03,130 - game.database_manager - ERROR - Failed to save score: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 2420 and this is thread id 19184.
+2025-08-04 18:47:20,650 - game.database_manager - INFO - Database connection closed
+2025-08-04 18:47:20,666 - root - INFO - Cleaning up application resources...
+2025-08-04 18:47:20,666 - game.database_manager - INFO - Database connection closed
+2025-08-04 18:47:20,666 - root - INFO - SPEED application shutdown complete
+2025-08-11 18:00:41,334 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-11 18:00:42,681 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 18:00:42,693 - game.database_manager - INFO - Database connection closed
+2025-08-11 18:00:42,699 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 18:00:42,716 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-11 18:00:42,719 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-11 18:00:42,721 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-11 18:00:42,721 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-11 18:00:42,725 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-11 18:00:42,727 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-11 18:00:42,728 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-11 18:00:42,729 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-11 18:00:42,729 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-11 18:00:43,794 - root - INFO - SPEED application started successfully
+2025-08-11 18:00:50,294 - speed_word_generator - INFO - Generated 297 words for simple in 0.000s
+2025-08-11 18:00:50,295 - speed_word_generator - INFO - Generated 6 paragraph lines for simple in 0.001s
+2025-08-11 18:01:00,784 - game.database_manager - INFO - Score saved for user default_user: 0.0 WPM
+2025-08-11 18:01:06,526 - game.database_manager - INFO - Database connection closed
+2025-08-11 18:01:06,575 - root - INFO - Cleaning up application resources...
+2025-08-11 18:01:06,575 - game.database_manager - INFO - Database connection closed
+2025-08-11 18:01:06,576 - root - INFO - SPEED application shutdown complete
+2025-08-11 18:20:46,717 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-11 18:20:47,873 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 18:20:47,874 - game.database_manager - INFO - Database connection closed
+2025-08-11 18:20:47,890 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 18:20:47,891 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-11 18:20:47,892 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-11 18:20:47,894 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-11 18:20:47,894 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-11 18:20:47,896 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-11 18:20:47,896 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-11 18:20:47,898 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-11 18:20:47,898 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-11 18:20:47,898 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-11 18:20:48,703 - root - INFO - SPEED application started successfully
+2025-08-11 18:21:08,958 - speed_word_generator - INFO - Time-based generation: 3 minutes × 7 words/min = 21 words
+2025-08-11 18:21:08,962 - speed_word_generator - INFO - Generated 21 words for simple in 0.000s
+2025-08-11 18:21:08,963 - speed_word_generator - INFO - Generated 21 words for 3-minute selection in 0.005s
+2025-08-11 18:21:16,856 - game.database_manager - INFO - Score saved for user default_user: 0.0 WPM
+2025-08-11 18:21:29,343 - game.database_manager - INFO - Database connection closed
+2025-08-11 18:21:29,420 - root - INFO - Cleaning up application resources...
+2025-08-11 18:21:29,423 - game.database_manager - INFO - Database connection closed
+2025-08-11 18:21:29,425 - root - INFO - SPEED application shutdown complete
+2025-08-11 18:34:13,448 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-11 18:34:14,609 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 18:34:14,611 - game.database_manager - INFO - Database connection closed
+2025-08-11 18:34:14,613 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 18:34:14,613 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-11 18:34:14,614 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-11 18:34:14,614 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-11 18:34:14,615 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-11 18:34:14,615 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-11 18:34:14,616 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-11 18:34:14,617 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-11 18:34:14,617 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-11 18:34:14,618 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-11 18:34:15,306 - root - INFO - SPEED application started successfully
+2025-08-11 18:34:20,302 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-11 18:34:20,303 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.094s
+2025-08-11 18:34:51,386 - game.database_manager - INFO - Score saved for user default_user: 149.9 WPM
+2025-08-11 18:34:52,338 - speed_word_generator - INFO - Generated 350 words for simple in 0.000s
+2025-08-11 18:34:52,340 - speed_word_generator - INFO - Generated 350 words for 5-minute selection in 0.023s
+2025-08-11 18:35:45,121 - game.database_manager - INFO - Score saved for user default_user: 128.7 WPM
+2025-08-11 18:35:56,818 - game.database_manager - INFO - Database connection closed
+2025-08-11 18:35:56,877 - root - INFO - Cleaning up application resources...
+2025-08-11 18:35:56,878 - game.database_manager - INFO - Database connection closed
+2025-08-11 18:35:56,879 - root - INFO - SPEED application shutdown complete
+2025-08-11 20:28:52,961 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-11 20:28:54,284 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 20:28:54,299 - game.database_manager - INFO - Database connection closed
+2025-08-11 20:28:54,305 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 20:28:54,307 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-11 20:28:54,307 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-11 20:28:54,311 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-11 20:28:54,312 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-11 20:28:54,314 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-11 20:28:54,314 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-11 20:28:54,315 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-11 20:28:54,315 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-11 20:28:54,316 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-11 20:28:54,987 - root - INFO - SPEED application started successfully
+2025-08-11 20:31:00,599 - speed_word_generator - INFO - Generated 210 words for simple in 0.000s
+2025-08-11 20:31:00,600 - speed_word_generator - INFO - Generated 210 words for 3-minute selection in 0.007s
+2025-08-11 20:33:02,119 - game.database_manager - INFO - Score saved for user default_user: 119.4 WPM
+2025-08-11 20:37:55,635 - game.database_manager - INFO - Database connection closed
+2025-08-11 20:37:55,647 - root - INFO - Cleaning up application resources...
+2025-08-11 20:37:55,647 - game.database_manager - INFO - Database connection closed
+2025-08-11 20:37:55,647 - root - INFO - SPEED application shutdown complete
+2025-08-11 20:41:26,509 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-11 20:41:27,607 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 20:41:27,608 - game.database_manager - INFO - Database connection closed
+2025-08-11 20:41:27,609 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 20:41:27,610 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-11 20:41:27,610 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-11 20:41:27,610 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-11 20:41:27,610 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-11 20:41:27,611 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-11 20:41:27,611 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-11 20:41:27,611 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-11 20:41:27,612 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-11 20:41:27,612 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-11 20:41:27,950 - root - INFO - SPEED application started successfully
+2025-08-11 20:41:49,046 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-11 20:41:49,046 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.013s
+2025-08-11 20:41:50,866 - game.database_manager - INFO - Score saved for user Anonymous: 0.0 WPM, 0.0% accuracy
+2025-08-11 20:41:50,867 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-11 20:41:59,191 - game.database_manager - INFO - Database connection closed
+2025-08-11 20:41:59,223 - root - INFO - Cleaning up application resources...
+2025-08-11 20:41:59,223 - game.database_manager - INFO - Database connection closed
+2025-08-11 20:41:59,224 - root - INFO - SPEED application shutdown complete
+2025-08-11 20:46:37,937 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-11 20:46:39,045 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 20:46:39,046 - game.database_manager - INFO - Database connection closed
+2025-08-11 20:46:39,047 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 20:46:39,047 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-11 20:46:39,048 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-11 20:46:39,048 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-11 20:46:39,048 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-11 20:46:39,049 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-11 20:46:39,049 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-11 20:46:39,050 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-11 20:46:39,050 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-11 20:46:39,050 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-11 20:46:39,376 - root - INFO - SPEED application started successfully
+2025-08-11 20:46:54,329 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-11 20:46:54,329 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.004s
+2025-08-11 20:46:55,330 - game.database_manager - INFO - Score saved for user Anonymous: 0.0 WPM, 0.0% accuracy
+2025-08-11 20:46:55,330 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-11 20:47:19,784 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-11 20:47:19,784 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.003s
+2025-08-11 20:47:20,786 - game.database_manager - INFO - Score saved for user Anonymous: 0.0 WPM, 0.0% accuracy
+2025-08-11 20:47:20,786 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-11 20:47:23,931 - game.database_manager - INFO - Score saved for user 25: 0.0 WPM, 0.0% accuracy
+2025-08-11 20:47:23,932 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-11 20:47:40,655 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-11 20:47:40,655 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.002s
+2025-08-11 20:47:41,298 - game.database_manager - INFO - Score saved for user Anonymous: 0.0 WPM, 0.0% accuracy
+2025-08-11 20:47:41,298 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-11 20:47:45,043 - game.database_manager - INFO - Score saved for user fhsuah: 0.0 WPM, 0.0% accuracy
+2025-08-11 20:47:45,044 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-11 20:47:56,897 - game.database_manager - INFO - Database connection closed
+2025-08-11 20:47:56,913 - root - INFO - Cleaning up application resources...
+2025-08-11 20:47:56,913 - game.database_manager - INFO - Database connection closed
+2025-08-11 20:47:56,913 - root - INFO - SPEED application shutdown complete
+2025-08-11 20:56:28,780 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-11 20:56:29,864 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 20:56:29,866 - game.database_manager - INFO - Database connection closed
+2025-08-11 20:56:29,867 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 20:56:29,867 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-11 20:56:29,867 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-11 20:56:29,868 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-11 20:56:29,868 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-11 20:56:29,868 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-11 20:56:29,868 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-11 20:56:29,869 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-11 20:56:29,869 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-11 20:56:29,869 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-11 20:56:30,244 - root - INFO - SPEED application started successfully
+2025-08-11 21:03:46,932 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-11 21:03:46,932 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.015s
+2025-08-11 21:03:52,347 - game.database_manager - INFO - Score saved for user Anonymous: 51.1 WPM, 17.4% accuracy
+2025-08-11 21:03:52,347 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-11 21:03:56,571 - game.database_manager - INFO - Score saved for user dhd: 51.1 WPM, 17.4% accuracy
+2025-08-11 21:03:56,572 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-11 21:04:18,731 - game.database_manager - INFO - Database connection closed
+2025-08-11 21:04:18,766 - root - INFO - Cleaning up application resources...
+2025-08-11 21:04:18,767 - game.database_manager - INFO - Database connection closed
+2025-08-11 21:04:18,772 - root - INFO - SPEED application shutdown complete
+2025-08-11 21:07:56,129 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-11 21:07:57,222 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 21:07:57,227 - game.database_manager - INFO - Database connection closed
+2025-08-11 21:07:57,230 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 21:07:57,232 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-11 21:07:57,232 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-11 21:07:57,233 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-11 21:07:57,233 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-11 21:07:57,234 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-11 21:07:57,234 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-11 21:07:57,235 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-11 21:07:57,235 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-11 21:07:57,236 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-11 21:07:57,419 - root - INFO - SPEED application started successfully
+2025-08-11 21:09:08,751 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-11 21:09:08,751 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.007s
+2025-08-11 21:09:17,370 - game.database_manager - INFO - Score saved for user Anonymous: 25.1 WPM, 16.7% accuracy
+2025-08-11 21:09:17,371 - game.database_manager - INFO - Database now contains 1 records (max 10)
+2025-08-11 21:09:34,896 - game.database_manager - INFO - Database connection closed
+2025-08-11 21:09:34,923 - root - INFO - Cleaning up application resources...
+2025-08-11 21:09:34,924 - game.database_manager - INFO - Database connection closed
+2025-08-11 21:09:34,924 - root - INFO - SPEED application shutdown complete
+2025-08-11 21:40:48,379 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-11 21:40:49,493 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 21:40:49,494 - game.database_manager - INFO - Database connection closed
+2025-08-11 21:40:49,495 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 21:40:49,496 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-11 21:40:49,497 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-11 21:40:49,498 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-11 21:40:49,499 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-11 21:40:49,499 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-11 21:40:49,499 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-11 21:40:49,500 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-11 21:40:49,500 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-11 21:40:49,500 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-11 21:40:49,697 - root - INFO - SPEED application started successfully
+2025-08-11 21:40:53,756 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-11 21:40:53,757 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.005s
+2025-08-11 21:40:55,485 - game.database_manager - INFO - Score saved for user Anonymous: 0.0 WPM, 0.0% accuracy
+2025-08-11 21:40:55,486 - game.database_manager - INFO - Database now contains 2 records (max 10)
+2025-08-11 21:41:09,405 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-11 21:41:09,405 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.002s
+2025-08-11 21:41:50,381 - game.database_manager - INFO - Score saved for user Anonymous: 17.9 WPM, 98.4% accuracy
+2025-08-11 21:41:50,381 - game.database_manager - INFO - Database now contains 3 records (max 10)
+2025-08-11 21:41:53,489 - game.database_manager - INFO - Score saved for user dv: 17.9 WPM, 98.4% accuracy
+2025-08-11 21:41:53,489 - game.database_manager - INFO - Database now contains 4 records (max 10)
+2025-08-11 21:42:06,339 - game.database_manager - INFO - Database connection closed
+2025-08-11 21:42:06,357 - root - INFO - Cleaning up application resources...
+2025-08-11 21:42:06,357 - game.database_manager - INFO - Database connection closed
+2025-08-11 21:42:06,357 - root - INFO - SPEED application shutdown complete
+2025-08-11 21:42:08,045 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-11 21:42:09,130 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 21:42:09,131 - game.database_manager - INFO - Database connection closed
+2025-08-11 21:42:09,132 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 21:42:09,133 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-11 21:42:09,133 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-11 21:42:09,134 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-11 21:42:09,134 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-11 21:42:09,134 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-11 21:42:09,135 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-11 21:42:09,135 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-11 21:42:09,135 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-11 21:42:09,135 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-11 21:42:09,322 - root - INFO - SPEED application started successfully
+2025-08-11 21:42:27,287 - speed_word_generator - INFO - Generated 70 words for medium in 0.000s
+2025-08-11 21:42:27,287 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.003s
+2025-08-11 21:42:30,345 - game.database_manager - INFO - Score saved for user Anonymous: 0.0 WPM, 0.0% accuracy
+2025-08-11 21:42:30,346 - game.database_manager - INFO - Database now contains 5 records (max 10)
+2025-08-11 21:42:43,294 - speed_word_generator - INFO - Generated 70 words for extra_hard in 0.000s
+2025-08-11 21:42:43,294 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.002s
+2025-08-11 21:42:46,486 - game.database_manager - INFO - Score saved for user Anonymous: 0.0 WPM, 0.0% accuracy
+2025-08-11 21:42:46,486 - game.database_manager - INFO - Database now contains 6 records (max 10)
+2025-08-11 21:42:55,707 - game.database_manager - INFO - Database connection closed
+2025-08-11 21:42:55,720 - root - INFO - Cleaning up application resources...
+2025-08-11 21:42:55,720 - game.database_manager - INFO - Database connection closed
+2025-08-11 21:42:55,720 - root - INFO - SPEED application shutdown complete
+2025-08-11 21:43:24,474 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-11 21:43:25,574 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 21:43:25,591 - game.database_manager - INFO - Database connection closed
+2025-08-11 21:43:25,592 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 21:43:25,593 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-11 21:43:25,595 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-11 21:43:25,595 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-11 21:43:25,596 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-11 21:43:25,597 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-11 21:43:25,597 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-11 21:43:25,598 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-11 21:43:25,598 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-11 21:43:25,598 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-11 21:43:25,822 - root - INFO - SPEED application started successfully
+2025-08-11 22:01:55,027 - game.database_manager - INFO - Database connection closed
+2025-08-11 22:01:55,053 - root - INFO - Cleaning up application resources...
+2025-08-11 22:01:55,054 - game.database_manager - INFO - Database connection closed
+2025-08-11 22:01:55,054 - root - INFO - SPEED application shutdown complete
+2025-08-11 22:04:30,032 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-11 22:04:31,143 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 22:04:31,143 - game.database_manager - INFO - Database connection closed
+2025-08-11 22:04:31,144 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 22:04:31,145 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-11 22:04:31,145 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-11 22:04:31,145 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-11 22:04:31,146 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-11 22:04:31,146 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-11 22:04:31,146 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-11 22:04:31,147 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-11 22:04:31,147 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-11 22:04:31,147 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-11 22:04:31,398 - root - INFO - SPEED application started successfully
+2025-08-11 22:05:16,849 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-11 22:05:16,849 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-11 22:05:16,849 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.000s
+2025-08-11 22:05:21,682 - game.database_manager - INFO - Score saved for user Anonymous: 74.5 WPM, 16.7% accuracy
+2025-08-11 22:05:21,684 - game.database_manager - INFO - Database now contains 7 records (max 10)
+2025-08-11 22:05:32,486 - speed_word_generator - INFO - Time-based generation: 5 minutes -> 350 words
+2025-08-11 22:05:32,493 - speed_word_generator - INFO - Generated 350 words for simple in 0.000s
+2025-08-11 22:05:32,494 - speed_word_generator - INFO - Generated 350 words for 5-minute selection in 0.008s
+2025-08-11 22:06:17,761 - game.database_manager - INFO - Score saved for user Anonymous: 688.8 WPM, 8.5% accuracy
+2025-08-11 22:06:17,762 - game.database_manager - INFO - Database now contains 8 records (max 10)
+2025-08-11 22:06:19,732 - game.database_manager - INFO - Score saved for user 3: 688.8 WPM, 8.5% accuracy
+2025-08-11 22:06:19,733 - game.database_manager - INFO - Database now contains 9 records (max 10)
+2025-08-11 22:11:02,035 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-11 22:11:03,125 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 22:11:03,125 - game.database_manager - INFO - Database connection closed
+2025-08-11 22:11:03,127 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 22:11:03,127 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-11 22:11:03,128 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-11 22:11:03,128 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-11 22:11:03,128 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-11 22:11:03,130 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-11 22:11:03,130 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-11 22:11:03,130 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-11 22:11:03,130 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-11 22:11:03,130 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-11 22:11:03,288 - root - INFO - SPEED application started successfully
+2025-08-11 22:11:10,361 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-11 22:11:10,361 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-11 22:11:10,363 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.002s
+2025-08-11 22:11:13,283 - game.database_manager - INFO - Score saved for user Anonymous: 0.0 WPM, 0.0% accuracy
+2025-08-11 22:11:13,284 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-11 22:11:22,029 - speed_word_generator - INFO - Time-based generation: 2 minutes -> 140 words
+2025-08-11 22:11:22,031 - speed_word_generator - INFO - Generated 140 words for simple in 0.000s
+2025-08-11 22:11:22,031 - speed_word_generator - INFO - Generated 140 words for 2-minute selection in 0.002s
+2025-08-11 22:11:42,132 - game.database_manager - INFO - Score saved for user Anonymous: 1.2 WPM, 100.0% accuracy
+2025-08-11 22:11:42,132 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-11 22:11:49,442 - speed_word_generator - INFO - Time-based generation: 2 minutes -> 140 words
+2025-08-11 22:11:49,443 - speed_word_generator - INFO - Generated 140 words for simple in 0.000s
+2025-08-11 22:11:49,444 - speed_word_generator - INFO - Generated 140 words for 2-minute selection in 0.001s
+2025-08-11 22:13:21,442 - game.database_manager - INFO - Score saved for user Anonymous: 77.0 WPM, 32.7% accuracy
+2025-08-11 22:13:21,443 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-11 22:13:24,220 - game.database_manager - INFO - Score saved for user 22: 77.0 WPM, 32.7% accuracy
+2025-08-11 22:13:24,220 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-11 22:15:24,108 - game.database_manager - INFO - Database connection closed
+2025-08-11 22:15:24,115 - root - INFO - Cleaning up application resources...
+2025-08-11 22:15:24,116 - game.database_manager - INFO - Database connection closed
+2025-08-11 22:15:24,116 - root - INFO - SPEED application shutdown complete
+2025-08-11 22:15:26,902 - game.database_manager - INFO - Database connection closed
+2025-08-11 22:15:26,907 - root - INFO - Cleaning up application resources...
+2025-08-11 22:15:26,907 - game.database_manager - INFO - Database connection closed
+2025-08-11 22:15:26,907 - root - INFO - SPEED application shutdown complete
+2025-08-11 22:18:33,367 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-11 22:18:34,461 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 22:18:34,462 - game.database_manager - INFO - Database connection closed
+2025-08-11 22:18:34,463 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 22:18:34,465 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-11 22:18:34,465 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-11 22:18:34,467 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-11 22:18:34,467 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-11 22:18:34,468 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-11 22:18:34,469 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-11 22:18:34,470 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-11 22:18:34,471 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-11 22:18:34,471 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-11 22:18:34,648 - root - INFO - SPEED application started successfully
+2025-08-11 22:18:44,925 - game.database_manager - INFO - Database connection closed
+2025-08-11 22:18:44,940 - root - INFO - Cleaning up application resources...
+2025-08-11 22:18:44,946 - game.database_manager - INFO - Database connection closed
+2025-08-11 22:18:44,946 - root - INFO - SPEED application shutdown complete
+2025-08-11 22:35:10,843 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-11 22:35:11,994 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 22:35:11,997 - game.database_manager - INFO - Database connection closed
+2025-08-11 22:35:11,998 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 22:35:11,999 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-11 22:35:11,999 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-11 22:35:12,000 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-11 22:35:12,001 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-11 22:35:12,002 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-11 22:35:12,008 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-11 22:35:12,009 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-11 22:35:12,010 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-11 22:35:12,010 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-11 22:35:12,283 - root - INFO - SPEED application started successfully
+2025-08-11 23:06:21,990 - game.database_manager - INFO - Database connection closed
+2025-08-11 23:06:22,006 - root - INFO - Cleaning up application resources...
+2025-08-11 23:06:22,007 - game.database_manager - INFO - Database connection closed
+2025-08-11 23:06:22,008 - root - INFO - SPEED application shutdown complete
+2025-08-11 23:27:10,334 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-11 23:27:11,432 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 23:27:11,433 - game.database_manager - INFO - Database connection closed
+2025-08-11 23:27:11,434 - game.database_manager - INFO - Database initialized successfully
+2025-08-11 23:27:11,435 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-11 23:27:11,435 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-11 23:27:11,435 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-11 23:27:11,435 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-11 23:27:11,436 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-11 23:27:11,436 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-11 23:27:11,436 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-11 23:27:11,436 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-11 23:27:11,436 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-11 23:27:11,661 - root - INFO - SPEED application started successfully
+2025-08-12 00:09:34,790 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-12 00:09:34,790 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-12 00:09:34,790 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.000s
+2025-08-12 00:09:37,160 - game.database_manager - INFO - Score saved for user Anonymous: 0.0 WPM, 0.0% accuracy
+2025-08-12 00:09:37,160 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-12 00:37:23,848 - game.database_manager - INFO - Database connection closed
+2025-08-12 00:37:23,854 - root - INFO - Cleaning up application resources...
+2025-08-12 00:37:23,854 - game.database_manager - INFO - Database connection closed
+2025-08-12 00:37:23,855 - root - INFO - SPEED application shutdown complete
+2025-08-12 00:37:24,049 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-12 00:37:25,157 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 00:37:25,158 - game.database_manager - INFO - Database connection closed
+2025-08-12 00:37:25,159 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 00:37:25,160 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-12 00:37:25,160 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-12 00:37:25,160 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-12 00:37:25,160 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-12 00:37:25,161 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-12 00:37:25,161 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-12 00:37:25,161 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-12 00:37:25,162 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-12 00:37:25,162 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-12 00:37:25,369 - root - INFO - SPEED application started successfully
+2025-08-12 00:37:29,078 - game.database_manager - INFO - Database connection closed
+2025-08-12 00:37:29,087 - root - INFO - Cleaning up application resources...
+2025-08-12 00:37:29,088 - game.database_manager - INFO - Database connection closed
+2025-08-12 00:37:29,088 - root - INFO - SPEED application shutdown complete
+2025-08-12 00:37:51,291 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-12 00:37:52,387 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 00:37:52,387 - game.database_manager - INFO - Database connection closed
+2025-08-12 00:37:52,388 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 00:37:52,389 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-12 00:37:52,389 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-12 00:37:52,390 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-12 00:37:52,390 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-12 00:37:52,390 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-12 00:37:52,390 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-12 00:37:52,391 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-12 00:37:52,391 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-12 00:37:52,391 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-12 00:37:52,912 - root - INFO - SPEED application started successfully
+2025-08-12 00:37:55,270 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-12 00:37:55,270 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-12 00:37:55,270 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.001s
+2025-08-12 00:38:11,260 - game.database_manager - INFO - Score saved for user Anonymous: 216.2 WPM, 16.3% accuracy
+2025-08-12 00:38:11,260 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-12 00:38:13,297 - game.database_manager - INFO - Score saved for user 33: 216.2 WPM, 16.3% accuracy
+2025-08-12 00:38:13,298 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-12 00:38:28,550 - game.database_manager - INFO - Database connection closed
+2025-08-12 00:38:28,562 - root - INFO - Cleaning up application resources...
+2025-08-12 00:38:28,563 - game.database_manager - INFO - Database connection closed
+2025-08-12 00:38:28,566 - root - INFO - SPEED application shutdown complete
+2025-08-12 00:40:22,914 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-12 00:40:24,012 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 00:40:24,014 - game.database_manager - INFO - Database connection closed
+2025-08-12 00:40:24,015 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 00:40:24,016 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-12 00:40:24,016 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-12 00:40:24,016 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-12 00:40:24,017 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-12 00:40:24,017 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-12 00:40:24,017 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-12 00:40:24,017 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-12 00:40:24,018 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-12 00:40:24,018 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-12 00:40:24,381 - root - INFO - SPEED application started successfully
+2025-08-12 00:40:32,420 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-12 00:40:32,420 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-12 00:40:32,420 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.000s
+2025-08-12 00:41:19,072 - game.database_manager - INFO - Score saved for user Anonymous: 28.3 WPM, 91.8% accuracy
+2025-08-12 00:41:19,073 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-12 00:41:21,288 - game.database_manager - INFO - Score saved for user 53: 28.3 WPM, 91.8% accuracy
+2025-08-12 00:41:21,288 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-12 00:41:28,765 - game.database_manager - INFO - Database connection closed
+2025-08-12 00:41:28,781 - root - INFO - Cleaning up application resources...
+2025-08-12 00:41:28,781 - game.database_manager - INFO - Database connection closed
+2025-08-12 00:41:28,782 - root - INFO - SPEED application shutdown complete
+2025-08-12 00:42:33,041 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-12 00:42:34,129 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 00:42:34,131 - game.database_manager - INFO - Database connection closed
+2025-08-12 00:42:34,131 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 00:42:34,132 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-12 00:42:34,132 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-12 00:42:34,133 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-12 00:42:34,133 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-12 00:42:34,133 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-12 00:42:34,133 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-12 00:42:34,133 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-12 00:42:34,133 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-12 00:42:34,134 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-12 00:42:34,451 - root - INFO - SPEED application started successfully
+2025-08-12 00:42:38,261 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-12 00:42:38,262 - speed_word_generator - INFO - Generated 70 words for simple in 0.001s
+2025-08-12 00:42:38,262 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.001s
+2025-08-12 00:42:47,074 - game.database_manager - INFO - Score saved for user Anonymous: 110.4 WPM, 14.8% accuracy
+2025-08-12 00:42:47,074 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-12 00:42:49,035 - game.database_manager - INFO - Score saved for user df: 110.4 WPM, 14.8% accuracy
+2025-08-12 00:42:49,035 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-12 00:42:58,757 - game.database_manager - INFO - Database connection closed
+2025-08-12 00:42:58,773 - root - INFO - Cleaning up application resources...
+2025-08-12 00:42:58,773 - game.database_manager - INFO - Database connection closed
+2025-08-12 00:42:58,775 - root - INFO - SPEED application shutdown complete
+2025-08-12 22:47:49,793 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-12 22:47:51,110 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 22:47:51,125 - game.database_manager - INFO - Database connection closed
+2025-08-12 22:47:51,131 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 22:47:51,131 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-12 22:47:51,132 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-12 22:47:51,134 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-12 22:47:51,134 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-12 22:47:51,135 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-12 22:47:51,135 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-12 22:47:51,136 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-12 22:47:51,136 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-12 22:47:51,137 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-12 22:47:51,727 - root - INFO - SPEED application started successfully
+2025-08-12 22:47:58,752 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-12 22:47:58,752 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-12 22:47:58,752 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.000s
+2025-08-12 22:48:58,786 - game.database_manager - ERROR - Failed to save score: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16964 and this is thread id 12224.
+2025-08-12 22:56:48,774 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-12 22:56:49,974 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 22:56:49,976 - game.database_manager - INFO - Database connection closed
+2025-08-12 22:56:49,978 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 22:56:49,979 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-12 22:56:49,979 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-12 22:56:49,984 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-12 22:56:49,987 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-12 22:56:49,988 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-12 22:56:49,988 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-12 22:56:49,990 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-12 22:56:49,990 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-12 22:56:49,991 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-12 22:56:51,156 - root - INFO - SPEED application started successfully
+2025-08-12 22:56:53,192 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-12 22:56:53,192 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-12 22:56:53,194 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.002s
+2025-08-12 22:57:53,203 - game.database_manager - ERROR - Failed to save score: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 1008 and this is thread id 29180.
+2025-08-12 22:59:30,276 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-12 22:59:31,485 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 22:59:31,487 - game.database_manager - INFO - Database connection closed
+2025-08-12 22:59:31,489 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 22:59:31,502 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-12 22:59:31,502 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-12 22:59:31,519 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-12 22:59:31,519 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-12 22:59:31,529 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-12 22:59:31,530 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-12 22:59:31,542 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-12 22:59:31,543 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-12 22:59:31,543 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-12 22:59:32,909 - root - INFO - SPEED application started successfully
+2025-08-12 22:59:34,704 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-12 22:59:34,705 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-12 22:59:34,706 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.002s
+2025-08-12 22:59:36,098 - game.database_manager - INFO - Score saved for user Anonymous: 0.0 WPM, 0.0% accuracy
+2025-08-12 22:59:36,100 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-12 22:59:40,844 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-12 22:59:40,845 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-12 22:59:40,845 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.001s
+2025-08-12 22:59:44,617 - game.database_manager - INFO - Score saved for user Anonymous: 54.3 WPM, 17.6% accuracy
+2025-08-12 22:59:44,618 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-12 22:59:48,122 - game.database_manager - INFO - Database connection closed
+2025-08-12 22:59:48,162 - root - INFO - Cleaning up application resources...
+2025-08-12 22:59:48,163 - game.database_manager - INFO - Database connection closed
+2025-08-12 22:59:48,164 - root - INFO - SPEED application shutdown complete
+2025-08-12 23:01:35,634 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-12 23:01:36,933 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 23:01:36,935 - game.database_manager - INFO - Database connection closed
+2025-08-12 23:01:36,937 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 23:01:36,940 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-12 23:01:36,940 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-12 23:01:36,942 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-12 23:01:36,942 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-12 23:01:36,944 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-12 23:01:36,944 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-12 23:01:36,947 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-12 23:01:36,947 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-12 23:01:36,949 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-12 23:01:37,982 - root - INFO - SPEED application started successfully
+2025-08-12 23:01:44,841 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-12 23:01:44,906 - speed_word_generator - INFO - Generated 70 words for simple in 0.001s
+2025-08-12 23:01:44,906 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.065s
+2025-08-12 23:01:46,252 - game.database_manager - INFO - Score saved for user Anonymous: 0.0 WPM, 0.0% accuracy
+2025-08-12 23:01:46,252 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-12 23:01:49,437 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-12 23:01:49,438 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-12 23:01:49,440 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.003s
+2025-08-12 23:02:49,445 - game.database_manager - ERROR - Failed to save score: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12516 and this is thread id 22292.
+2025-08-12 23:03:48,339 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-12 23:03:49,541 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 23:03:49,543 - game.database_manager - INFO - Database connection closed
+2025-08-12 23:03:49,546 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 23:03:49,548 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-12 23:03:49,548 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-12 23:03:49,550 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-12 23:03:49,550 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-12 23:03:49,551 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-12 23:03:49,552 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-12 23:03:49,553 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-12 23:03:49,553 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-12 23:03:49,554 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-12 23:03:50,447 - root - INFO - SPEED application started successfully
+2025-08-12 23:03:52,167 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-12 23:03:52,169 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-12 23:03:52,172 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.005s
+2025-08-12 23:03:53,155 - game.database_manager - INFO - Score saved for user Anonymous: 0.0 WPM, 0.0% accuracy
+2025-08-12 23:03:53,156 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-12 23:04:14,313 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-12 23:04:14,314 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-12 23:04:14,314 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.001s
+2025-08-12 23:05:14,328 - game.database_manager - ERROR - Failed to save score: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 9960 and this is thread id 32304.
+2025-08-12 23:12:47,812 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-12 23:12:49,196 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 23:12:49,415 - game.database_manager - INFO - Database connection closed
+2025-08-12 23:12:49,427 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 23:12:49,430 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-12 23:12:49,433 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-12 23:12:49,438 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-12 23:12:49,438 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-12 23:12:49,441 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-12 23:12:49,441 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-12 23:12:49,444 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-12 23:12:49,445 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-12 23:12:49,446 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-12 23:12:50,701 - root - INFO - SPEED application started successfully
+2025-08-12 23:12:52,915 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-12 23:12:52,916 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-12 23:12:52,917 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.002s
+2025-08-12 23:13:52,919 - game.database_manager - ERROR - Failed to save score: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28140 and this is thread id 10844.
+2025-08-12 23:15:22,787 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-12 23:15:24,106 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 23:15:24,151 - game.database_manager - INFO - Database connection closed
+2025-08-12 23:15:24,154 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 23:15:24,157 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-12 23:15:24,159 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-12 23:15:24,161 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-12 23:15:24,162 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-12 23:15:24,164 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-12 23:15:24,165 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-12 23:15:24,166 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-12 23:15:24,168 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-12 23:15:24,169 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-12 23:15:24,768 - root - INFO - SPEED application started successfully
+2025-08-12 23:16:06,439 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-12 23:16:06,441 - speed_word_generator - INFO - Generated 70 words for simple in 0.001s
+2025-08-12 23:16:06,442 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.003s
+2025-08-12 23:17:06,459 - game.database_manager - ERROR - Failed to save score: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 31184 and this is thread id 6868.
+2025-08-12 23:17:12,811 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-12 23:17:14,133 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 23:17:14,227 - game.database_manager - INFO - Database connection closed
+2025-08-12 23:17:14,230 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 23:17:14,233 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-12 23:17:14,235 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-12 23:17:14,236 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-12 23:17:14,237 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-12 23:17:14,239 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-12 23:17:14,240 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-12 23:17:14,241 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-12 23:17:14,243 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-12 23:17:14,245 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-12 23:17:14,974 - root - INFO - SPEED application started successfully
+2025-08-12 23:17:27,269 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-12 23:17:27,269 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-12 23:17:27,270 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.001s
+2025-08-12 23:18:27,279 - game.database_manager - ERROR - Failed to save score: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28460 and this is thread id 17260.
+2025-08-12 23:22:45,705 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-12 23:22:46,935 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 23:22:46,938 - game.database_manager - INFO - Database connection closed
+2025-08-12 23:22:46,939 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 23:22:46,942 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-12 23:22:46,947 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-12 23:22:46,953 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-12 23:22:46,954 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-12 23:22:46,956 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-12 23:22:46,957 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-12 23:22:46,958 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-12 23:22:46,959 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-12 23:22:46,959 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-12 23:22:47,921 - root - INFO - SPEED application started successfully
+2025-08-12 23:22:51,388 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-12 23:22:51,392 - speed_word_generator - INFO - Generated 70 words for simple in 0.001s
+2025-08-12 23:22:51,392 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.004s
+2025-08-12 23:23:51,404 - game.database_manager - ERROR - Failed to save score: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 21424 and this is thread id 21312.
+2025-08-12 23:34:32,633 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-12 23:34:33,759 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 23:34:33,760 - game.database_manager - INFO - Database connection closed
+2025-08-12 23:34:33,761 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 23:34:33,762 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-12 23:34:33,762 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-12 23:34:33,763 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-12 23:34:33,763 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-12 23:34:33,764 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-12 23:34:33,765 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-12 23:34:33,765 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-12 23:34:33,766 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-12 23:34:33,766 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-12 23:34:34,056 - root - INFO - SPEED application started successfully
+2025-08-12 23:36:55,061 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-12 23:36:55,062 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-12 23:36:55,063 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.002s
+2025-08-12 23:37:55,072 - game.database_manager - ERROR - Failed to save score: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 29860 and this is thread id 9172.
+2025-08-12 23:41:08,072 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-12 23:41:09,174 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 23:41:09,175 - game.database_manager - INFO - Database connection closed
+2025-08-12 23:41:09,176 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 23:41:09,177 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-12 23:41:09,177 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-12 23:41:09,178 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-12 23:41:09,178 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-12 23:41:09,178 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-12 23:41:09,178 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-12 23:41:09,179 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-12 23:41:09,179 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-12 23:41:09,179 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-12 23:41:09,732 - root - INFO - SPEED application started successfully
+2025-08-12 23:41:12,698 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-12 23:41:12,699 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-12 23:41:12,699 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.001s
+2025-08-12 23:42:12,712 - game.database_manager - ERROR - Failed to save score: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 6672 and this is thread id 29296.
+2025-08-12 23:42:12,714 - game.database_manager - ERROR - Failed to get user stats: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 6672 and this is thread id 29296.
+2025-08-12 23:42:12,715 - game.database_manager - ERROR - Failed to get user scores: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 6672 and this is thread id 29296.
+2025-08-12 23:42:12,717 - game.database_manager - ERROR - Failed to get leaderboard: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 6672 and this is thread id 29296.
+2025-08-12 23:44:20,265 - game.database_manager - INFO - Database connection closed
+2025-08-12 23:44:20,281 - root - INFO - Cleaning up application resources...
+2025-08-12 23:44:20,282 - game.database_manager - INFO - Database connection closed
+2025-08-12 23:44:20,282 - root - INFO - SPEED application shutdown complete
+2025-08-12 23:44:20,451 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-12 23:44:21,546 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 23:44:21,547 - game.database_manager - INFO - Database connection closed
+2025-08-12 23:44:21,548 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 23:44:21,549 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-12 23:44:21,549 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-12 23:44:21,550 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-12 23:44:21,550 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-12 23:44:21,550 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-12 23:44:21,551 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-12 23:44:21,551 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-12 23:44:21,551 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-12 23:44:21,551 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-12 23:44:21,919 - root - INFO - SPEED application started successfully
+2025-08-12 23:44:26,695 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-12 23:44:26,696 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-12 23:44:26,697 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.002s
+2025-08-12 23:45:26,713 - game.database_manager - ERROR - Failed to save score: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 24020 and this is thread id 6272.
+2025-08-12 23:45:26,714 - game.database_manager - ERROR - Failed to get user stats: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 24020 and this is thread id 6272.
+2025-08-12 23:45:26,714 - game.database_manager - ERROR - Failed to get user scores: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 24020 and this is thread id 6272.
+2025-08-12 23:45:26,715 - game.database_manager - ERROR - Failed to get leaderboard: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 24020 and this is thread id 6272.
+2025-08-12 23:45:41,600 - game.database_manager - INFO - Database connection closed
+2025-08-12 23:45:41,625 - root - INFO - Cleaning up application resources...
+2025-08-12 23:45:41,628 - game.database_manager - INFO - Database connection closed
+2025-08-12 23:45:41,628 - root - INFO - SPEED application shutdown complete
+2025-08-12 23:45:45,301 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-12 23:45:46,406 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 23:45:46,406 - game.database_manager - INFO - Database connection closed
+2025-08-12 23:45:46,408 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 23:45:46,408 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-12 23:45:46,408 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-12 23:45:46,409 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-12 23:45:46,409 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-12 23:45:46,410 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-12 23:45:46,411 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-12 23:45:46,411 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-12 23:45:46,413 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-12 23:45:46,413 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-12 23:45:46,759 - root - INFO - SPEED application started successfully
+2025-08-12 23:45:48,622 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-12 23:45:48,623 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-12 23:45:48,623 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.001s
+2025-08-12 23:45:53,296 - game.database_manager - INFO - Score saved for user Anonymous: 0.0 WPM, 0.0% accuracy
+2025-08-12 23:45:53,296 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-12 23:45:54,622 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-12 23:45:54,622 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-12 23:45:54,623 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.001s
+2025-08-12 23:46:54,640 - game.database_manager - ERROR - Failed to save score: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 31020 and this is thread id 15940.
+2025-08-12 23:46:54,641 - game.database_manager - ERROR - Failed to get user stats: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 31020 and this is thread id 15940.
+2025-08-12 23:46:54,642 - game.database_manager - ERROR - Failed to get user scores: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 31020 and this is thread id 15940.
+2025-08-12 23:46:54,643 - game.database_manager - ERROR - Failed to get leaderboard: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 31020 and this is thread id 15940.
+2025-08-12 23:47:02,093 - game.database_manager - INFO - Database connection closed
+2025-08-12 23:47:02,115 - root - INFO - Cleaning up application resources...
+2025-08-12 23:47:02,116 - game.database_manager - INFO - Database connection closed
+2025-08-12 23:47:02,116 - root - INFO - SPEED application shutdown complete
+2025-08-12 23:48:44,386 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-12 23:48:45,490 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 23:48:45,491 - game.database_manager - INFO - Database connection closed
+2025-08-12 23:48:45,492 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 23:48:45,493 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-12 23:48:45,493 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-12 23:48:45,494 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-12 23:48:45,494 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-12 23:48:45,494 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-12 23:48:45,494 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-12 23:48:45,495 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-12 23:48:45,495 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-12 23:48:45,495 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-12 23:48:46,066 - root - INFO - SPEED application started successfully
+2025-08-12 23:48:47,798 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-12 23:48:47,798 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-12 23:48:47,799 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.001s
+2025-08-12 23:48:54,424 - game.database_manager - INFO - Score saved for user Anonymous: 0.0 WPM, 0.0% accuracy
+2025-08-12 23:48:54,424 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-12 23:48:57,653 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-12 23:48:57,653 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-12 23:48:57,653 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.000s
+2025-08-12 23:49:57,667 - game.database_manager - ERROR - Failed to save score: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 17912 and this is thread id 16432.
+2025-08-12 23:49:57,670 - game.database_manager - ERROR - Failed to get user stats: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 17912 and this is thread id 16432.
+2025-08-12 23:49:57,670 - game.database_manager - ERROR - Failed to get user scores: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 17912 and this is thread id 16432.
+2025-08-12 23:49:57,671 - game.database_manager - ERROR - Failed to get leaderboard: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 17912 and this is thread id 16432.
+2025-08-12 23:51:33,943 - game.database_manager - INFO - Database connection closed
+2025-08-12 23:51:33,975 - root - INFO - Cleaning up application resources...
+2025-08-12 23:51:33,975 - game.database_manager - INFO - Database connection closed
+2025-08-12 23:51:33,976 - root - INFO - SPEED application shutdown complete
+2025-08-12 23:53:03,677 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-12 23:53:04,821 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 23:53:04,829 - game.database_manager - INFO - Database connection closed
+2025-08-12 23:53:04,832 - game.database_manager - INFO - Database initialized successfully
+2025-08-12 23:53:04,833 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-12 23:53:04,833 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-12 23:53:04,838 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-12 23:53:04,838 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-12 23:53:04,839 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-12 23:53:04,839 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-12 23:53:04,840 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-12 23:53:04,840 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-12 23:53:04,840 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-12 23:53:05,461 - root - INFO - SPEED application started successfully
+2025-08-12 23:53:07,213 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-12 23:53:07,213 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-12 23:53:07,214 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.001s
+2025-08-12 23:54:07,225 - game.database_manager - ERROR - Failed to save score: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 2740 and this is thread id 30000.
+2025-08-13 00:00:39,194 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-13 00:00:40,271 - game.database_manager - INFO - Database initialized successfully
+2025-08-13 00:00:40,272 - game.database_manager - INFO - Database connection closed
+2025-08-13 00:00:40,273 - game.database_manager - INFO - Database initialized successfully
+2025-08-13 00:00:40,274 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-13 00:00:40,274 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-13 00:00:40,275 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-13 00:00:40,275 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-13 00:00:40,276 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-13 00:00:40,276 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-13 00:00:40,276 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-13 00:00:40,276 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-13 00:00:40,276 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-13 00:00:40,888 - root - INFO - SPEED application started successfully
+2025-08-13 00:00:46,985 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-13 00:00:46,986 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-13 00:00:46,986 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.001s
+2025-08-13 00:01:47,003 - game.database_manager - ERROR - Failed to save score: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16004 and this is thread id 24208.
+2025-08-13 00:08:35,927 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-13 00:08:37,049 - game.database_manager - INFO - Database initialized successfully
+2025-08-13 00:08:37,053 - game.database_manager - INFO - Database connection closed
+2025-08-13 00:08:37,056 - game.database_manager - INFO - Database initialized successfully
+2025-08-13 00:08:37,057 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-13 00:08:37,058 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-13 00:08:37,058 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-13 00:08:37,059 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-13 00:08:37,059 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-13 00:08:37,060 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-13 00:08:37,060 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-13 00:08:37,060 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-13 00:08:37,061 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-13 00:08:37,649 - root - INFO - SPEED application started successfully
+2025-08-13 00:21:00,628 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-13 00:21:01,726 - game.database_manager - INFO - Database initialized successfully
+2025-08-13 00:21:01,727 - game.database_manager - INFO - Database connection closed
+2025-08-13 00:21:01,728 - game.database_manager - INFO - Database initialized successfully
+2025-08-13 00:21:01,729 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-13 00:21:01,729 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-13 00:21:01,729 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-13 00:21:01,729 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-13 00:21:01,730 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-13 00:21:01,730 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-13 00:21:01,730 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-13 00:21:01,731 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-13 00:21:01,731 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-13 00:21:02,126 - root - INFO - SPEED application started successfully
+2025-08-13 00:21:07,518 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-13 00:21:07,520 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-13 00:21:07,520 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.002s
+2025-08-13 00:22:07,535 - game.database_manager - ERROR - Failed to save score: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13260 and this is thread id 16244.
+2025-08-13 00:22:14,085 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-13 00:22:14,086 - speed_word_generator - INFO - Generated 70 words for simple in 0.001s
+2025-08-13 00:22:14,086 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.001s
+2025-08-13 00:23:14,099 - game.database_manager - ERROR - Failed to save score: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 17740 and this is thread id 30528.
+2025-08-13 00:25:15,134 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-13 00:25:16,373 - game.database_manager - INFO - Database initialized successfully
+2025-08-13 00:25:16,407 - game.database_manager - INFO - Database connection closed
+2025-08-13 00:25:16,410 - game.database_manager - INFO - Database initialized successfully
+2025-08-13 00:25:16,411 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-13 00:25:16,412 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-13 00:25:16,413 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-13 00:25:16,413 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-13 00:25:16,414 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-13 00:25:16,414 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-13 00:25:16,415 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-13 00:25:16,416 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-13 00:25:16,417 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-13 00:25:16,834 - root - INFO - SPEED application started successfully
+2025-08-13 00:25:19,786 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-13 00:25:19,786 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-13 00:25:19,786 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.000s
+2025-08-13 00:25:26,660 - game.database_manager - INFO - Score saved for user dd: 0.0 WPM, 0.0% accuracy
+2025-08-13 00:25:26,660 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-13 00:25:33,518 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-13 00:25:33,519 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-13 00:25:33,519 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.001s
+2025-08-13 00:25:47,290 - speed_word_generator - INFO - Time-based generation: 10 minutes -> 700 words
+2025-08-13 00:25:47,291 - speed_word_generator - INFO - Generated 700 words for simple in 0.001s
+2025-08-13 00:25:47,291 - speed_word_generator - INFO - Generated 700 words for 10-minute selection in 0.001s
+2025-08-13 00:26:45,586 - game.database_manager - INFO - Score saved for user hh: 321.6 WPM, 10.6% accuracy
+2025-08-13 00:26:45,586 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-13 00:27:01,298 - speed_word_generator - INFO - Time-based generation: 10 minutes -> 700 words
+2025-08-13 00:27:01,299 - speed_word_generator - INFO - Generated 700 words for simple in 0.001s
+2025-08-13 00:27:01,300 - speed_word_generator - INFO - Generated 700 words for 10-minute selection in 0.002s
+2025-08-13 00:27:15,044 - game.database_manager - INFO - Database connection closed
+2025-08-13 00:27:15,047 - root - INFO - Cleaning up application resources...
+2025-08-13 00:27:15,051 - game.database_manager - INFO - Database connection closed
+2025-08-13 00:27:15,051 - root - INFO - SPEED application shutdown complete
+2025-08-13 00:29:16,884 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-13 00:29:17,992 - game.database_manager - INFO - Database initialized successfully
+2025-08-13 00:29:17,993 - game.database_manager - INFO - Database connection closed
+2025-08-13 00:29:17,994 - game.database_manager - INFO - Database initialized successfully
+2025-08-13 00:29:17,994 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-13 00:29:17,994 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-13 00:29:17,995 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-13 00:29:17,995 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-13 00:29:17,995 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-13 00:29:17,995 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-13 00:29:17,995 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-13 00:29:17,996 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-13 00:29:17,996 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-13 00:29:18,325 - root - INFO - SPEED application started successfully
+2025-08-13 00:29:20,113 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-13 00:29:20,114 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-13 00:29:20,114 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.001s
+2025-08-13 00:29:33,848 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-13 00:29:33,848 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-13 00:29:33,849 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.001s
+2025-08-13 00:30:57,343 - game.database_manager - INFO - Database connection closed
+2025-08-13 00:30:57,357 - root - INFO - Cleaning up application resources...
+2025-08-13 00:30:57,358 - game.database_manager - INFO - Database connection closed
+2025-08-13 00:30:57,359 - root - INFO - SPEED application shutdown complete
+2025-08-13 00:33:08,640 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-13 00:33:09,735 - game.database_manager - INFO - Database initialized successfully
+2025-08-13 00:33:09,735 - game.database_manager - INFO - Database connection closed
+2025-08-13 00:33:09,736 - game.database_manager - INFO - Database initialized successfully
+2025-08-13 00:33:09,737 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-13 00:33:09,737 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-13 00:33:09,737 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-13 00:33:09,738 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-13 00:33:09,738 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-13 00:33:09,738 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-13 00:33:09,738 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-13 00:33:09,738 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-13 00:33:09,738 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-13 00:33:10,062 - root - INFO - SPEED application started successfully
+2025-08-13 00:33:12,521 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-13 00:33:12,522 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-13 00:33:12,522 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.001s
+2025-08-13 00:34:11,524 - game.database_manager - ERROR - Failed to get user stats: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 9936 and this is thread id 28320.
+2025-08-13 00:34:11,527 - game.database_manager - ERROR - Failed to get user scores: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 9936 and this is thread id 28320.
+2025-08-13 00:34:11,528 - game.database_manager - ERROR - Failed to get leaderboard: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 9936 and this is thread id 28320.
+2025-08-13 00:34:44,128 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-13 00:34:45,207 - game.database_manager - INFO - Database initialized successfully
+2025-08-13 00:34:45,207 - game.database_manager - INFO - Database connection closed
+2025-08-13 00:34:45,208 - game.database_manager - INFO - Database initialized successfully
+2025-08-13 00:34:45,209 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-13 00:34:45,209 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-13 00:34:45,209 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-13 00:34:45,209 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-13 00:34:45,210 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-13 00:34:45,210 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-13 00:34:45,210 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-13 00:34:45,210 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-13 00:34:45,210 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-13 00:34:45,532 - root - INFO - SPEED application started successfully
+2025-08-13 00:34:59,210 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-13 00:34:59,211 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-13 00:34:59,212 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.002s
+2025-08-13 00:35:21,815 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-13 00:35:21,815 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-13 00:35:21,815 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.000s
+2025-08-13 00:36:20,836 - game.database_manager - ERROR - Failed to get user stats: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 5596 and this is thread id 19140.
+2025-08-13 00:36:20,840 - game.database_manager - ERROR - Failed to get user scores: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 5596 and this is thread id 19140.
+2025-08-13 00:36:20,850 - game.database_manager - ERROR - Failed to get leaderboard: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 5596 and this is thread id 19140.
+2025-08-13 00:54:45,212 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-13 00:54:46,312 - game.database_manager - INFO - Database initialized successfully
+2025-08-13 00:54:46,313 - game.database_manager - INFO - Database connection closed
+2025-08-13 00:54:46,314 - game.database_manager - INFO - Database initialized successfully
+2025-08-13 00:54:46,315 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-13 00:54:46,316 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-13 00:54:46,317 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-13 00:54:46,318 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-13 00:54:46,319 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-13 00:54:46,320 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-13 00:54:46,321 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-13 00:54:46,322 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-13 00:54:46,322 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-13 00:54:46,490 - root - INFO - SPEED application started successfully
+2025-08-13 00:54:49,634 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-13 00:54:49,635 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-13 00:54:49,635 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.001s
+2025-08-13 00:54:58,727 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-13 00:54:58,727 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-13 00:54:58,728 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.001s
+2025-08-13 00:55:57,734 - game.database_manager - ERROR - Failed to get user stats: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 18788 and this is thread id 15808.
+2025-08-13 00:55:57,735 - game.database_manager - ERROR - Failed to get user scores: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 18788 and this is thread id 15808.
+2025-08-13 00:55:57,737 - game.database_manager - ERROR - Failed to get leaderboard: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 18788 and this is thread id 15808.
+2025-08-13 00:57:51,541 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-13 00:57:52,653 - game.database_manager - INFO - Database initialized successfully
+2025-08-13 00:57:52,657 - game.database_manager - INFO - Database connection closed
+2025-08-13 00:57:52,658 - game.database_manager - INFO - Database initialized successfully
+2025-08-13 00:57:52,658 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-13 00:57:52,659 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-13 00:57:52,659 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-13 00:57:52,659 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-13 00:57:52,660 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-13 00:57:52,660 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-13 00:57:52,660 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-13 00:57:52,660 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-13 00:57:52,661 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-13 00:57:52,977 - root - INFO - SPEED application started successfully
+2025-08-13 00:57:55,436 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-13 00:57:55,437 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-13 00:57:55,437 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.001s
+2025-08-13 00:58:03,332 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-13 00:58:03,333 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-13 00:58:03,333 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.001s
+2025-08-13 00:59:16,690 - game.database_manager - INFO - Database connection closed
+2025-08-13 00:59:16,702 - root - INFO - Cleaning up application resources...
+2025-08-13 00:59:16,704 - game.database_manager - INFO - Database connection closed
+2025-08-13 00:59:16,712 - root - INFO - SPEED application shutdown complete
+2025-08-13 01:07:25,307 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-13 01:07:26,403 - game.database_manager - INFO - Database initialized successfully
+2025-08-13 01:07:26,405 - game.database_manager - INFO - Database connection closed
+2025-08-13 01:07:26,406 - game.database_manager - INFO - Database initialized successfully
+2025-08-13 01:07:26,407 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-13 01:07:26,408 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-13 01:07:26,409 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-13 01:07:26,410 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-13 01:07:26,412 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-13 01:07:26,412 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-13 01:07:26,416 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-13 01:07:26,417 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-13 01:07:26,418 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-13 01:07:26,749 - root - INFO - SPEED application started successfully
+2025-08-13 01:07:30,638 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-13 01:07:30,639 - speed_word_generator - INFO - Generated 70 words for simple in 0.001s
+2025-08-13 01:07:30,639 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.001s
+2025-08-13 01:07:36,963 - game.database_manager - INFO - Score saved for user kk: 59.4 WPM, 0.0% accuracy
+2025-08-13 01:07:36,964 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-13 01:07:46,818 - game.database_manager - INFO - Database connection closed
+2025-08-13 01:07:46,851 - root - INFO - Cleaning up application resources...
+2025-08-13 01:07:46,852 - game.database_manager - INFO - Database connection closed
+2025-08-13 01:07:46,853 - root - INFO - SPEED application shutdown complete
+2025-08-13 01:11:09,963 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-13 01:11:11,065 - game.database_manager - INFO - Database initialized successfully
+2025-08-13 01:11:11,066 - game.database_manager - INFO - Database connection closed
+2025-08-13 01:11:11,067 - game.database_manager - INFO - Database initialized successfully
+2025-08-13 01:11:11,068 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-13 01:11:11,068 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-13 01:11:11,068 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-13 01:11:11,069 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-13 01:11:11,069 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-13 01:11:11,069 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-13 01:11:11,069 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-13 01:11:11,070 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-13 01:11:11,070 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-13 01:11:11,413 - root - INFO - SPEED application started successfully
+2025-08-13 01:11:16,669 - speed_word_generator - INFO - Time-based generation: 1 minutes -> 70 words
+2025-08-13 01:11:16,669 - speed_word_generator - INFO - Generated 70 words for simple in 0.000s
+2025-08-13 01:11:16,669 - speed_word_generator - INFO - Generated 70 words for 1-minute selection in 0.000s
+2025-08-13 01:12:29,593 - game.database_manager - INFO - Score saved for user dv: 22.3 WPM, 85.4% accuracy
+2025-08-13 01:12:29,594 - game.database_manager - INFO - Database now contains 10 records (max 10)
+2025-08-13 01:12:49,377 - speed_word_generator - INFO - Time-based generation: 5 minutes -> 350 words
+2025-08-13 01:12:49,377 - speed_word_generator - INFO - Generated 350 words for simple in 0.000s
+2025-08-13 01:12:49,377 - speed_word_generator - INFO - Generated 350 words for 5-minute selection in 0.001s
+2025-08-13 01:13:01,415 - game.database_manager - INFO - Database connection closed
+2025-08-13 01:13:01,422 - root - INFO - Cleaning up application resources...
+2025-08-13 01:13:01,423 - game.database_manager - INFO - Database connection closed
+2025-08-13 01:13:01,424 - root - INFO - SPEED application shutdown complete

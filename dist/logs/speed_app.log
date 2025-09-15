@@ -1,0 +1,18 @@
+2025-08-13 01:26:43,278 - root - INFO - Starting SPEED - Keyboard Speed Training Application
+2025-08-13 01:26:44,383 - game.database_manager - INFO - Database initialized successfully
+2025-08-13 01:26:44,384 - game.database_manager - INFO - Database connection closed
+2025-08-13 01:26:44,385 - game.database_manager - INFO - Database initialized successfully
+2025-08-13 01:26:44,386 - game.word_source_loader - INFO - Loaded 653 entries from simple_words_large.txt using utf-8 encoding
+2025-08-13 01:26:44,386 - speed_word_generator - INFO - Loaded 653 words for simple
+2025-08-13 01:26:44,386 - game.word_source_loader - INFO - Loaded 775 entries from medium_unique_words.txt using utf-8 encoding
+2025-08-13 01:26:44,386 - speed_word_generator - INFO - Loaded 775 words for medium
+2025-08-13 01:26:44,387 - game.word_source_loader - INFO - Loaded 316 entries from hard_words_expanded.txt using utf-8 encoding
+2025-08-13 01:26:44,387 - speed_word_generator - INFO - Loaded 316 words for hard
+2025-08-13 01:26:44,387 - game.word_source_loader - INFO - Loaded 260 entries from extra_hard_words_extended.txt using utf-8 encoding
+2025-08-13 01:26:44,387 - speed_word_generator - INFO - Loaded 260 words for extra_hard
+2025-08-13 01:26:44,387 - speed_word_generator - INFO - Successfully loaded word sources for 4 difficulty levels
+2025-08-13 01:26:44,572 - root - INFO - SPEED application started successfully
+2025-08-13 01:26:46,673 - game.database_manager - INFO - Database connection closed
+2025-08-13 01:26:46,692 - root - INFO - Cleaning up application resources...
+2025-08-13 01:26:46,692 - game.database_manager - INFO - Database connection closed
+2025-08-13 01:26:46,692 - root - INFO - SPEED application shutdown complete
